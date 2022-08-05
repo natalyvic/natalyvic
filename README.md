@@ -1,0 +1,4 @@
+- 👋 ola,eu sou @natalyvic
+- 👀 estou interessada em aprender a progamar novas linguagens.
+- 🌱 eu estou aprendendo a programarrecentemente
+- 📫 meu email para contato é nataly.vitoria.silva@escola.pr.gov.br
